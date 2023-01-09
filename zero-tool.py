@@ -12,7 +12,7 @@ print(Fore.MAGENTA+"""
 (_______/(_______/|/   \__/(_______)       |/     \|   )_(      )_(   |/     \|(_______/|_/    \/(_______/|/   \__/
                                                                                                                    
                                                                  
-BY: DEV7KNIGHT X ASJAD
+BY: DEV7KNIGHT X ! Imaginenotwinningakahoot#9076
 Version 0.1 (0.2 version on its way (more tool)?)
 """)
 
